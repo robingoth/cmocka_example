@@ -1,0 +1,7 @@
+*.swp
+calc_tests
+
+# Object files
+src/obj/*.o
+
+lib/*

@@ -1,7 +1,7 @@
 *.swp
-calc_tests
+calc_test
 
 # Object files
-src/obj/*.o
+obj/*.o
 
 lib/*
